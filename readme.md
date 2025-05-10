@@ -5,7 +5,7 @@
 
 
 ## Configure project
-The following commands will create a virtual environment called `env`, activate it and install all dependencies. Later if you want to run the program, you can simply [activate the env](#Activate virtual env) and [run the program](#Run the program).
+The following commands will create a virtual environment called `env`, activate it and install all dependencies. Later if you want to run the program, you can simply [activate the env](#-Activate-virtual-env) and [run the program](#-Run-the-program).
 ```
 python -m venv env
 ./env/Scripts/activate
